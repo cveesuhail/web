@@ -4,16 +4,11 @@
   <h3><a href="#my link" target="_blank">Live Preview</a></h3>
 </div>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/29565530/144163917-196b3e87-90e2-4615-b1c7-6a905533f34b.gif" /></div>
-<div align="center">
-  <p>Home background effect made with React-Particles</p>
-</div>
-
 <br>
 
 ## 💬 Overview:
 
-A simple one-page react portfolio made based off the original project by [Julian C](https://github.com/juliancesaro) with clearly defined and modular components which can be easily swapped in and out depending on your use-case. Currently integrated with Apollo & Github API to call repositories with a user provided auth token.
+A simple one-page react portfolio of [Cv Suhail](https://cvsuhail.github.io/web)
 
 ## 🛠️ Packages & APIs
 
@@ -26,13 +21,12 @@ A simple one-page react portfolio made based off the original project by [Julian
 
 ## 🏗️ Recent changes:
 
-- Deploy 'Projects' component to live build which utilized Apollo & Github's GraphQL API to get my projects displaying as elements.
-- Deploy 'Experience' section - need to update content to recent experience. (Up to date experience can be found on my <a href="https://www.linkedin.com/in/mjigalin/" target="_blank">Linkedin</a>.
+- Deploy 'Experience' section - need to update content to recent experience. (Up to date experience can be found on my <a href="https://www.linkedin.com/in/suhailcv/" target="_blank">Linkedin</a>.
 - Clickthroughs to currently live web projects I've worked on / developed
 
 ## 🚧 Current Planned Developments:
 
-- Add gif previews in a carousel of my previous web projects
+- Add gif previews of this site
 - Additional styling overhaul using css variables instead of manual colours
 - Convert site to a gatsby static site for faster load times & security
 
