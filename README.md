@@ -8,7 +8,7 @@
 
 ## 💬 Overview:
 
-A simple one-page react portfolio of [Cv Suhail](https://cvsuhail.github.io/web)
+A simple one-page react portfolio of [Cv Suhail](https://github.com/cvsuhail)
 
 ## 🛠️ Packages & APIs
 
