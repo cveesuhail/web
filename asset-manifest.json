@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.9d7779eb.chunk.css",
+    "main.js": "/web/static/js/main.9883056d.chunk.js",
+    "main.js.map": "/web/static/js/main.9883056d.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.33aab821.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.33aab821.js.map",
+    "static/js/2.a6879ec0.chunk.js": "/web/static/js/2.a6879ec0.chunk.js",
+    "static/js/2.a6879ec0.chunk.js.map": "/web/static/js/2.a6879ec0.chunk.js.map",
+    "index.html": "/web/index.html",
+    "precache-manifest.eab72a78eb89c63be28af428ff5d77ce.js": "/web/precache-manifest.eab72a78eb89c63be28af428ff5d77ce.js",
+    "service-worker.js": "/web/service-worker.js",
+    "static/css/main.9d7779eb.chunk.css.map": "/web/static/css/main.9d7779eb.chunk.css.map",
+    "static/js/2.a6879ec0.chunk.js.LICENSE.txt": "/web/static/js/2.a6879ec0.chunk.js.LICENSE.txt",
+    "static/media/8secondz.png": "/web/static/media/8secondz.9388d614.png",
+    "static/media/bartini.png": "/web/static/media/bartini.c7b2dbe0.png",
+    "static/media/cabbagetreelandscape.png": "/web/static/media/cabbagetreelandscape.7feddacb.png",
+    "static/media/cactus.png": "/web/static/media/cactus.ad8ee816.png",
+    "static/media/cactuscan.png": "/web/static/media/cactuscan.9ef3cb72.png",
+    "static/media/d.png": "/web/static/media/d.9c1952ca.png",
+    "static/media/instagram.png": "/web/static/media/instagram.8290266a.png",
+    "static/media/matt.png": "/web/static/media/matt.4e9d0776.png",
+    "static/media/whatsapp.png": "/web/static/media/whatsapp.8b357b47.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33aab821.js",
+    "static/js/2.a6879ec0.chunk.js",
+    "static/css/main.9d7779eb.chunk.css",
+    "static/js/main.9883056d.chunk.js"
+  ]
+}

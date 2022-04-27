@@ -1,0 +1,17 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+front-end developer
+software engineer in malappuram
+suhail cv
+suhail wandoor
+cv suhail
+muhammed suhail cv
+react developer
+react native developer
+kiebot suhail
+suhail kiebot
+cv suhail portfolio
+suhail portfolio
+suhail cv portfolio
